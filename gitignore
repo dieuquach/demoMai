@@ -1,0 +1,8 @@
+.gitignore
+
+# Build
+.idea
+*.iml
+target
+cucumber-html-reports
+*.txt
